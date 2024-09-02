@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Reference Include="CeLeRy">
-      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Among Us\CeLeRy\CeLeRy.dll</HintPath>
+      <HintPath>C:\Games\SomeGame\CeLeRy\CeLeRy.dll</HintPath>
     </Reference>
   </ItemGroup>
 
