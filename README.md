@@ -21,7 +21,7 @@ Winform mods CAN work. Easiest way is to just make a Winform project and use the
 Changing to Class Library may cause issues with Winform.
 
 Feel free to make a Pull Request, Or submit an Issue Ticket for Feature Requests, Issues, and anything else!
-My Discord is 'Glatrix#0001' or just 'glatrix'. Reach out there for questions. Might make a server later on.
+My Discord is 'Glatrix\#0001' or just 'glatrix'. Reach out there for questions. Might make a server later on.
 
 ```
 ExampleGame
