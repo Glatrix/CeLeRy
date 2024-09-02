@@ -29,7 +29,6 @@ ExampleGame
 │   version.dll                      (CeLeRy Proxy Loader)
 ├───ExampleGameData
 │   │   (Blah Blah)
-│
 ├───CeLeRy
 │   │   CeLeRy.dll                   (.NET CeLeRy Core DLL)
 │   │   clrhost.dll                  (CeLeRy Proxy-Core Middleman) ie. [version.dll] -> [Ijwhost.dll + clrhost.dll] -> [CeLeRy.dll])
