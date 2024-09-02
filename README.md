@@ -41,3 +41,6 @@ ExampleGame
         (Any DLLs here will get loaded, checked for CeLeRyMod Attribute on any Class, and Execute accordingly.
         Hello World.txt
 ```
+
+<h1>Thanks!</h1>
+Thanks to Bitcrackers for https://github.com/BitCrackers/version-proxy
