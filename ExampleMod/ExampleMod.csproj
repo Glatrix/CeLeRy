@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CeLeRy">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\Among Us\CeLeRy\CeLeRy.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
