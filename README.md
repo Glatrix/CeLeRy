@@ -1,6 +1,55 @@
 <h1>CeLeRy</h1>
-<h4>A (Work-In-Progress) Lightweight .NET Universal Mod Loader</h4>
-<img src="https://github.com/user-attachments/assets/b01cb42c-8929-4ada-b71a-a4128ce38d55" width="200">
+
+<p>
+A (Work-In-Progress) Lightweight .NET Universal Mod Loader     
+</p>
+
+<p>  
+<img src="https://github.com/user-attachments/assets/b01cb42c-8929-4ada-b71a-a4128ce38d55" width="100">   
+</p>
+
+| Current Releases (v0.1) |
+| ---------------- |
+| [x32 Games Download (STILL WIP)](https://github.com/Glatrix/CeLeRy/blob/main/release_zips/CeLeRy32.zip) |
+| [x64 Games Download (STILL WIP)](https://github.com/Glatrix/CeLeRy/blob/main/release_zips/CeLeRy64.zip) |
+
+| Works With | Status |
+| ------------- | - |
+| .NET 8.0 | [✅] |
+| Winforms | [✅] |
+| DLL Imports | [✅] |
+| Unsafe Context | [✅] (Still Unsafe) |
+| Nuget Packages | [❔] (Not Yet Tested) |
+| .NET 8.x | [❔] (Not Yet Tested) |
+| Native AOT (and/or) Single-File | [❔] (Not Planned Feature) |
+
+| To-Do | Status |
+| ------------- | - |
+| Better Logging | Working On |
+| Nuget Package Handling | In Research |
+| Better / More Examples | Backlog |
+| Docs, Webpage, and FAQ | Backlog |
+| Configuration Options | Backlog |
+| Plugins & More Mod Options | Backlog |
+| .NET 8.x | Backlog |
+
+** Note About To-Dos and Roadmap
+```
+All of these planned features and TO-DOs still center around keeping
+this project lightweight. Meaning The code base should be kept as small
+and easy to read as possible. 
+
+Plugins will hopfully be the main form
+of expansion on the base mod loader. 
+
+Plugins are currently planned to load
+AFTER System and Microsoft DLLs but BEFORE mods are loaded allowing for
+ease of use. 
+
+Plugins ARE NOT currently planned to be the same as, or include
+nuget packages. I'm still looking at how to impliment nuget packages
+in such a way that can be easily debugged, changed, etc.
+```
 
 <h1>How It Works?</h1>
 As shown below, You take the contents of a release zip and extract them into your game directory.
