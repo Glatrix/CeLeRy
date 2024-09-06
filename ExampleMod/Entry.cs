@@ -1,4 +1,5 @@
 ﻿using CeLeRy;
+using CeLeRy.Logging;
 
 namespace ExampleMod
 {
@@ -7,7 +8,7 @@ namespace ExampleMod
     {
         public static void Main()
         {
-            Console.WriteLine("Mod Running!");
+            Logger.Log("Mod Running!", LogLevel.Information);
         }
     }
 }

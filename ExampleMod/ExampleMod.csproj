@@ -7,9 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="CeLeRy">
-      <HintPath>C:\Games\SomeGame\CeLeRy\CeLeRy.dll</HintPath>
-    </Reference>
+    <ProjectReference Include="..\CeLeRy\CeLeRy.csproj" />
   </ItemGroup>
 
 </Project>
