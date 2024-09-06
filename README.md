@@ -90,9 +90,7 @@ ExampleGame
 │   │   clrhost.dll                  (CeLeRy Proxy-Core Middleman) ie. [version.dll] -> [Ijwhost.dll + clrhost.dll] -> [CeLeRy.dll])
 │   │   clrhost.runtimeconfig.json   (Required because clrhost.dll is a C++/CLR dll.
 │   │   Ijwhost.dll                  (clrhost.dll dependency)
-│   │
-│   └───runtime
-│           (Any System and Microsoft Dependencies)
+│   │   latest_logs.txt              (Logs Now Saved)
 └───mods
         (Any DLLs here will get loaded, checked for CeLeRyMod Attribute on any Class, and Execute accordingly.
         Hello World.txt
