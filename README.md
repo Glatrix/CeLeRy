@@ -17,8 +17,8 @@ A (Work-In-Progress) Lightweight .NET Universal Mod Loader
   
 | Current Releases (v0.1) |
 | ---------------- |
-| [x32 (STILL WIP)](https://github.com/Glatrix/CeLeRy/releases/download/v0.1/CeLeRy32.zip) |
-| [x64 (STILL WIP)](https://github.com/Glatrix/CeLeRy/releases/download/v0.1/CeLeRy64.zip) |
+| [x32 (STILL WIP)](https://github.com/Glatrix/CeLeRy/releases/latest/download/CeLeRy32.zip) |
+| [x64 (STILL WIP)](https://github.com/Glatrix/CeLeRy/releases/latest/download/CeLeRy64.zip) |
 
 | Works With | Status |
 | ------------- | - |
