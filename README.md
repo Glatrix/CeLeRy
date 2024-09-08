@@ -5,9 +5,8 @@ A (Work-In-Progress) Lightweight .NET Universal Mod Loader
 </p>
 
 <p>  
-<img src="https://github.com/user-attachments/assets/b01cb42c-8929-4ada-b71a-a4128ce38d55" width="100">   
+<img src="https://github.com/user-attachments/assets/26fc7d5b-9255-4145-84fe-1ea0ff9b0597" width="200">   
 </p>
-
 
 - Only Tested On Windows 10
 - No ARM Support
