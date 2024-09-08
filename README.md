@@ -29,6 +29,9 @@ A (Work-In-Progress) Lightweight .NET Universal Mod Loader
 | .NET 8.x | [❔] (Not Yet Tested) |
 | Native AOT (and/or) Single-File | [❔] (Not Planned Feature) |
 
+![image](https://github.com/user-attachments/assets/62523817-2fee-4aeb-b397-948238a99620)
+
+
 | To-Do | Status |
 | ------------- | - |
 | Better Logging | Working On |
@@ -94,8 +97,6 @@ ExampleGame
         (Any DLLs here will get loaded, checked for CeLeRyMod Attribute on any Class, and Execute accordingly.
         Hello World.txt
 ```
-
-![image](https://github.com/user-attachments/assets/94dfe904-1bde-43e5-a221-f4397a14e9ae)
 
 
 <h1>Thanks!</h1>
